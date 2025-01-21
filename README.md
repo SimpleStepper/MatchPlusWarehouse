@@ -33,6 +33,6 @@ This showcases the initial code of the database in SSMS and fictional data gener
 
 Using PowerBI, the interactive dashboard was created to **highlight key statistics** within our data base for fast and easy decision making. The dashboard highlights KPI's such as **age, gender, education levels, ethnicity, location and Interest** for analytical decision making. The goal of this dashboard was to create something that matched the websites color scheme, allow data to be **easily interpreted and provide filters** (such as male or female) to allow quick analysis over the dating applications userbase. 
 ![alt text](https://github.com/SimpleStepper/MatchPlusWarehouse/blob/main/assets/MatchPlusDashboard.png)
-Due to PowerBI interacting with our logical dataset, the dashboard is interactable and can be analyzed further by clicking on any given category 
+Due to PowerBI interacting with our logical dataset, the dashboard is interactable and can be analyzed further by clicking on any given category when opened in PowerBI.
 
 
